@@ -1,14 +1,13 @@
 # Setup
-title:        Project or Site name
-tagline:      A responsive theme for your project on GitHub Pages
-baseurl:      ""
+title:        Middle Tennessee DSA
+tagline:      Middle Tennessee's branch of America's fastest growing socialist organization. 
 paginate:     1
 locale:       "en"
 
 # About/contact
 author:
   name:       Author name
-  url:        http://yourhomepage.com 
+  url:        https://evasivepangolin.github.io/midtndsa-june/
 
 # Gems
 gems:
