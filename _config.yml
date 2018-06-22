@@ -6,8 +6,8 @@ locale:       "en"
 
 # About/contact
 author:
-  name:       Author name
-  url:        https://evasivepangolin.github.io/midtndsa-june/
+  name:       Caleb King
+  url:        https://evasivepangolin.github.io
 
 # Gems
 gems:
@@ -15,5 +15,4 @@ gems:
 
 #Others
 markdown: kramdown
-
 theme: jekyll-theme-cayman
